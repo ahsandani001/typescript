@@ -8,7 +8,7 @@ const carsByMake: string[][] = [
 ];
 
 // Help with inference when extracting values
-const car = carMaker[0];
+// const car = carMaker[0];
 const myCar = carMaker.pop();
 
 // Prevent incompatible values

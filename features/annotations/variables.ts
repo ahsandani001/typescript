@@ -12,9 +12,9 @@ let colors: string[] = ['red', 'green', 'blue'];
 let numbers: number[] = [12, 45, 65]
 let truths: boolean[] = [true, false];
 
-class Car {
+// class Car {
 
-}
+// }
 
 // let car: Car = new Car();
 
